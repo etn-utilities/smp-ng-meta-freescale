@@ -1,4 +1,4 @@
-name: 'Checks pull request title'
+name: 'Check pull request title'
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
